@@ -17,8 +17,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   
-  color: #1cfc08;
-  background-color: #0bf117;
+  color: #002f06;
+  background-color: #002f06;
 }
 
 a {
@@ -63,14 +63,14 @@ Headline {
 # Page Title
 --------------------------------------------------------------*/
 .pagetitle {
-  margin-bottom: 10px;
+  margin-right: 10px;
 }
 
 .pagetitle h1 {
   font-size: 24px;
   margin-bottom: 0;
   font-weight: 600;
-  color: #012970;
+  color: #f7f9fc;
 }
 
 /*--------------------------------------------------------------
@@ -609,6 +609,12 @@ Headline {
   background-color: #f6f9ff;
 }
 .Ptext
+{
+  font-size: 25px;
+  font-weight: 600;
+  color: #ececf1;
+}
+.Marquee
 {
   font-size: 15px;
   font-weight: 600;
