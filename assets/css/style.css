@@ -242,7 +242,7 @@ Headline {
   padding: 20px 0 15px 0;
   font-size: 18px;
   font-weight: 500;
-  color: #012970;
+  color: #030557;
   font-family: "Poppins", sans-serif;
 }
 
@@ -1251,7 +1251,7 @@ Headline {
 
 .footer .copyright {
   text-align: center;
-  color: #000305;
+  color: #f9fafc;
   font-size: 15px;
   
 }
@@ -1260,5 +1260,5 @@ Headline {
   padding-top: 5px;
   text-align: center;
   font-size: 15px;
-  color: #3208ee;
+  color: #f1f0f3;
 }
